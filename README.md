@@ -8,13 +8,11 @@ Análisis exploratorio de los datos bancarios con Python
 # Análisis descriptivo de los datos
 
 - Clientes estudiados:
-+------------------------------+
-|   Suscripción de producto    |
-+----------------------+-------+
-|          No          | 38156 |
-+----------------------+-------+
-|          Si          |  4844 |
-+----------------------+-------+
+  
+| Clientes estudiados  |       |
+|----------------------|-------|
+|    No contrataron    | 38156 |
+|      Contrataron     |  4844 |
 
 De los 43000 clientes estudiados 4844 contrataron el producto, lo que supone algo más del 11%.
 
