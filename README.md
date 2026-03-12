@@ -18,21 +18,21 @@ De los 43000 clientes estudiados 4844 contrataron el producto, lo que supone alg
 
 - Comparativa de variable entre clientes que contratan y no.
   
-|     suscripcion_producto    | No contratan |   Contratan  |
-|----------------------------:|-------------:|-------------:|
-|                        edad |    39.861724 |    40.886310 |
-|        prestamo_hipotecario |     0.544973 |     0.563584 |
-|               otro_prestamo |     0.176407 |     0.170727 |
-| duracion_ultima_interaccion |   220.430208 |   551.621387 |
-|        contactos_en_campaña |     2.632797 |     2.050784 |
-|        dias_ultimo_contacto |     6.246935 |     5.974435 |
-|           contactos_previos |     0.132771 |     0.498968 |
-|       tasa_variacion_empleo |     0.244499 |    -1.241247 |
-|               ingreso_anual | 93324.595031 | 92584.301197 |
-|                   num_niños |     1.004744 |     1.005161 |
-|            num_adolescentes |     0.998821 |     0.996903 |
-|       visitas_web_mensuales |    16.587850 |    16.604253 |
-|                   num_hijos |     2.003564 |     2.002064 |
+|     Suscripción producto    | No contratan | Contratan |
+|:---------------------------:|:------------:|:---------:|
+|             Edad            |     39.8     |    40.8   |
+|     Préstamo Hipotecario    |     0.54     |    0.56   |
+|        Otro préstamo        |     0.17     |    0.17   |
+| Duración última interacción |      220     |    551    |
+|     Contactos en campaña    |       3      |     2     |
+|     Días último contacto    |       6      |     6     |
+|      Contactos previos      |     0.13     |    0.49   |
+|    Tasa variación empleo    |     0.24     |   -1.24   |
+|       Ingresos anuales      |     93324    |   92584   |
+|           Nº niños          |       1      |     1     |
+|       Nº adolescentes       |       1      |     1     |
+|    Visitas web mensuales    |      17      |     17    |
+|           Nº hijos          |       2      |     2     |
 
 Con esto se ve que los datos más decisivos para la contaratación o no son: 
 - La duración de la ultima interacción:
