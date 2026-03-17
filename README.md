@@ -28,5 +28,10 @@ Los clientes recientes jubilados tienen una tasa de contratación del 40 % y los
 En conclusión, el análisis muestra que los clientes más propensos a suscribir son los que ya suscribieron antes, los nuevos clientes y los estudiantes y jubilados. La mejor forma de contactar con ellos es el teléfono móvil.
 
 # Archivos adjuntos:
+- En la carpeta datos_brutos: Los datos brutos recibidos
+- En la carpeta datos_limpios: Los datos preparados para el análisis.
+- En la caperta notebook: El archivo Datos con la limpieza y preparación de los datos y el archivo análisis con el análisis de los datos.
 
-# 
+# Autor:
+Antonio Fernández
+@antonio28863
