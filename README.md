@@ -18,13 +18,13 @@ Los contactos en campaña son ligeramente superiores en los que no suscriben lo 
 Los contactos previos son superiores en los que suscriben, la fidelización de clientes es importante fuera de campañas para que funcionen mejor.  
 La tasa de variación de empleo, la tasa de interes a tres meses y los demas datos macroeconomicos nos dicen que cuanto mayor es la incertidumbre economica hay mas predisposición a suscribir productos. Se pueden aprovechar esos momentos par lanzar campañas.  
 Los clientes que ya suscribieron en una campaña previa tiene un 65% de posibilidades de repetir. Se pueden plantear campañas para clientes que ya suscribieron con anterioridad.  
-Por ocupación los estudiantes con un 31% y jubilados con un 25% son los targets a tener en cuenta.  
+Por ocupación los estudiantes con un 31% y jubilados con un 25% son los targets a tener en cuenta. Aunque son menos de 3000 clientes.  
 Hay una ligera suscripción superior de solteros.  
 Por nivel educativo los datos son bastante estables, detaca el de analfabetos pero al haber solo 18 casos no es reseñable.  
 Por método de contacto el teléfono móvil triplica a los suscritos por teléfono fijo.  
 El mes de interacción con mayor éxito es ligeramente octubre y el día los jueves.  
 La tasa de suscripción de clientes con menos de dos años de antigüedad llega casi al 20% por el 10% de los antiguos. Se deberia fidelizar a los clientes antiguos y lanzar campañas para clientes nuevos.  
-Los clientes recientes jubilados tienen una tasa de contratación del 40 % y los nuevos clientes desempleados del 50%. Hay que lanzar campañas especificas.  
+De los 247 clientes recientes jubilados contrataron el 40%. Se deben hacer campañas especificas para atraer más clientes con este perfil.  
 En conclusión, el análisis muestra que los clientes más propensos a suscribir son los que ya suscribieron antes, los nuevos clientes y los estudiantes y jubilados. La mejor forma de contactar con ellos es el teléfono móvil.
 
 # Archivos adjuntos:
