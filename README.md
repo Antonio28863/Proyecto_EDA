@@ -2,7 +2,7 @@
 Análisis exploratorio de los datos bancarios con Python
 
 # Descripción:
-Para realizar el análisis se parte de un archivo csv que contiene datos relacionados con campañas de marketing directo y un archivo excel con datos demográficos de los clientes.
+Para realizar el análisis se parte de un archivo csv que contiene datos relacionados con campañas de marketing directo y un archivo excel con datos demográficos de los clientes.  
 Lo primero que hacemos es concatenar las hojas de excel en un dataframe. Traducimos los encabezados de las columnas para tener más claro con los datos que estamos trabajando.
 Comprobamos que los id de cliente sean únicos, si coinciden en los dos dataframes y cuales solo están en un dataframe. Unimos en un solo dataframe descartando los id de los que solo tenemos los datos demograficos.
 Colocamos el id de cliente como indice y borramos un par de columnas con indices que no usaremos.
